@@ -1,0 +1,4 @@
+repository "myKitchenChaos@ruo_yan@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
